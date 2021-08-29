@@ -1,0 +1,76 @@
+html {
+    font-size: 10px;
+  }
+  
+  #title {
+    text-align: center;
+    font-size: 40px;
+  }
+  
+  #main {
+    font-family: "Open Sans", "Segoe UI", "Roboto", "Helvetica Neue", Arial,
+      sans-serif;
+    font-size: 20px;
+    color: #333;
+    text-align: center;
+  }
+  
+  h1 {
+    font-size: 3rem;
+    margin-bottom: 0;
+  }
+  
+  .startpage {
+    font-size: 15px;
+  }
+  
+  #main {
+    margin: 30px 8px;
+    padding: 20px;
+    border-radius: 5px;
+    background: #eee;
+  }
+  
+  img {
+    max-width: 100%;
+    display: block;
+    height: auto;
+    margin: 0 auto;
+  }
+  
+  #img-div {
+    background: white;
+    padding: 25px;
+    margin: 20;
+  }
+  
+  #img-caption {
+    margin: 15px 0 5px 0;
+    font-size: 15px;
+  }
+  
+  .content {
+    box-sizing: border-box !important;
+    display: grid;
+    width: 100%;
+  }
+  
+  #tribute-info {
+    padding-top: 10px;
+    font-size: 15px;
+    text-align: justify;
+  }
+  
+  .external-links {
+    text-align: center;
+    display: flex;
+  }
+  
+  .rono-insta {
+    padding-left: 5px;
+  }
+  
+  .rono-forbes {
+    padding-left: 10px;
+  }
+  
